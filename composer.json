@@ -1,0 +1,12 @@
+{
+    "name": "qyyp/vk-php-sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qYYp",
+            "email": "qYYp@tuta.io"
+        }
+    ],
+    "require": {}
+}
